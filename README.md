@@ -4,7 +4,7 @@
 ### Задание 1. Составьте команду rsync, которая позволяет создавать зеркальную копию домашней директории пользователя в директорию.
 
 Скриншот:
-![Скриншот](https://raw.githubusercontent.com/nikitarostorguev8837-alt/sflt-hw-3/main/img/task-1.png
+![Скриншот](https://raw.githubusercontent.com/nikitarostorguev8837-alt/sflt-hw-3/main/img/task-1.png)
 
 ---
 
@@ -18,8 +18,8 @@
 см. Скрин3
 
 Скриншот:
-![Скрин1](https://github.com/nikitarostorguev8837-alt/sflt-hw-3/main/img/task-2_1.png)
-![Скрин2](https://github.com/nikitarostorguev8837-alt/sflt-hw-3/main/img/task-2_2.png)
-![Скрин3](https://github.com/nikitarostorguev8837-alt/sflt-hw-3/main/img/task-2_3.png)
+![Скрин1](https://raw.githubusercontent.com/nikitarostorguev8837-alt/sflt-hw-3/main/img/task-2_1.png)
+![Скрин2](https://raw.githubusercontent.com/nikitarostorguev8837-alt/sflt-hw-3/main/img/task-2_2.png)
+![Скрин3](https://raw.githubusercontent.com/nikitarostorguev8837-alt/sflt-hw-3/main/img/task-2_3.png)
 
 ---
